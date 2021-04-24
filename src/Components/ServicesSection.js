@@ -22,7 +22,6 @@ const ServicesSection = () => {
                         </div>
                     <p>Lorem ipsum dolor sit amet. </p>
                     </Card>
-
                     <Card>
                         <div className="icon">
                         <img src={teamwork} alt="icon"/>
@@ -37,7 +36,6 @@ const ServicesSection = () => {
                         </div>
                     <p>Lorem ipsum dolor sit amet. </p>
                     </Card>
-
                     <Card>
                         <div className="icon">
                         <img src={money} alt='icon'/>
@@ -50,11 +48,7 @@ const ServicesSection = () => {
             <Image>
                  <img src={home2} alt='icon' />
                  </Image>
-            </Services>
-                
-            
-            
-    
+            </Services> 
     )
 }
 const Services=styled(About)`
