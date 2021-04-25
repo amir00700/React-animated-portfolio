@@ -9,7 +9,6 @@ import {scrollReveal} from '../animation';
 
 const FaqSection = () => {
     const [element,controls]=useScroll();
-
     return (
         <Faq variants={scrollReveal} ref={element} animate={controls}
         initial="hidden">

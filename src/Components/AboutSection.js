@@ -10,6 +10,7 @@ const AboutSection = () => {
 
     return (
         <About>
+           
         <Description>
             <motion.div >
             <Hide>
