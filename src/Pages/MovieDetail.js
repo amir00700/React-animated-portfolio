@@ -17,7 +17,7 @@ import{MovieState} from "../movieState";
     setMovie(currentMovie[0]);
     
   }, [movies, url]);
- console.log(movie)
+ console.log(setMovies);
 
      
       
