@@ -3,7 +3,7 @@ import home1 from '../img/home1.png';
 import {About,Description, Image,Hide} from "../styles";
 //framer motion
 import {motion} from "framer-motion";
-import {titleAnim,fade,phtotAnim, photoAnim} from '../animation'
+import {titleAnim,fade,photoAnim} from '../animation'
 import Wave from "./Wave";
 
 const AboutSection = () => {
